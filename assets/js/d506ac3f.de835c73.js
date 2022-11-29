@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklinkorb=self.webpackChunklinkorb||[]).push([[4715],{278:o=>{o.exports=JSON.parse('{"permalink":"/linkorb.github.io/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
