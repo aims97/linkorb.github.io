@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklinkorb=self.webpackChunklinkorb||[]).push([[5082],{5560:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/linkorb.github.io/blog/tags/facebook","allTagsPath":"/linkorb.github.io/blog/tags","count":1}')}}]);
