@@ -59,13 +59,15 @@ const config = {
           src: 'img/linkorb.png',
         },
         items: [
+          
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'User Guide',
           },
-      
+         
+        
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
