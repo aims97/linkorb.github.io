@@ -1,6 +1,8 @@
 ---
-id: GET - Form List
+id: formlist
 ---
+
+# Get - Form List
 Get a list of Form that is associated with the **Basic_Auth** token. This API returns every form along with the **Form Id, name,** and **label**.
 
 ## Header Parameters

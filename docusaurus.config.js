@@ -66,7 +66,12 @@ const config = {
             position: 'left',
             label: 'User Guide',
           },
-         
+          {
+            type: 'doc',
+            docId: 'API/formlist',
+            position: 'left',
+            label: 'API Doc',
+          },
         
           {
             href: 'https://github.com/facebook/docusaurus',
